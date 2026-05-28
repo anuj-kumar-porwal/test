@@ -6,7 +6,8 @@ import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
-        //System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("again  hello");
 
         List<Integer> numList = Arrays.asList(1,2,3,3,4,2,5);
 
